@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: Succubus Quiet
+## Notes: Sliders for overall frequency and whip/moan ratio of the Succubus sounds.
+## Author: omnyicient @ github
+## Version: 3.0
+## SavedVariables: SuccubusQuietDB
+
+SuccubusQuiet.lua
