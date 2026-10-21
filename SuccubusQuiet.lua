@@ -15,7 +15,7 @@ local GROUPS = { "whip", "moan", "other" }
 
 -- Optional built-in FileDataIDs, e.g.  whip = { 123456, 123457 },
 local DEFAULT_IDS = {
-    whip = {},
+    whip = { 561144 }, -- smack / whip-crack
     moan = {},
 }
 
